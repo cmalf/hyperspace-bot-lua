@@ -1,6 +1,13 @@
 # 💫 hyperspace-bot-lua
 Simplifying Hyperspace CLI usage with a robust LUA bot, making commands easier to execute and manage.
 
+> [!WARNING]
+> Due to the large number of participants,and the server capacity has not been increased.
+> You will often encounter errors from the server such as 500,502,503 (meaning the server is overloaded).
+
+> [!TIP]
+> If you're just focused on increasing uptime and collecting points, for now it's better to just run a node.
+
 # 🤔 How To Do
 
 ## 🧬 Clone This Repository
@@ -29,11 +36,11 @@ lua app.lua
 - Select option number 1 (to start running node)
 - You can now interact with hyperspace-cli via bot
 
-> [!TIP]
+> [!WARNING]
 > THIS BOT IS ONLY FOR MACOS AND LINUX USERS
 
 > [!TIP]
-> After running node, you can select option 0 to exit. (if you just want to run node, without interacting with hyperspace-cli) <br>
+> After running node(option 1 Start Daemon), you can select option 0 to exit. (if you just want to run node, without interacting with hyperspace-cli) <br>
 > The node will run in the background <br>
 > You can check the log in the aios.log file <br>
 
@@ -59,3 +66,6 @@ lua app.lua
   
 <img src="https://github.com/user-attachments/assets/bf49d401-e830-4406-9d91-e8525308ee28" widht=580 height=480 >
 
+## ᝰ.ᐟ NOTE
+
+Bots are created based on content from hyperspaceai [aios-cli](https://github.com/hyperspaceai/aios-cli)
