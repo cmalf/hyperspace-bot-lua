@@ -16,7 +16,7 @@ Simplifying Hyperspace CLI usage with a robust LUA bot, making commands easier t
 git clone https://github.com/cmalf/hyperspace-bot-lua.git
 ```
 
-## 📂 Go To Teneo Bot Folder
+## 📂 Go To hyperspace Bot Folder
 
 ```bash
 cd hyperspace-bot-lua
